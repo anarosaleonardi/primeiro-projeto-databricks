@@ -1,2 +1,2 @@
 # primeiro-projeto-databricks
-imersão databriks jornada de dados
+imersão databricks jornada de dados
